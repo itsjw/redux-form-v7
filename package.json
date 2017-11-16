@@ -1,5 +1,5 @@
 {
-  "name": "redux-form",
+  "name": "redux-form-v7",
   "version": "7.1.2",
   "description":
     "A higher order component decorator for forms using Redux and React",
@@ -138,7 +138,7 @@
     "testRegex": "__tests__/.*\\.spec\\.js$",
     "testEnvironment": "jsdom"
   },
-  "npmName": "redux-form",
+  "npmName": "redux-form-v7",
   "npmFileMap": [
     {
       "basePath": "/dist/",
